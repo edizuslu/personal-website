@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Avatar from "react-avatar";
 
 class About extends Component {
   render() {
@@ -19,11 +20,7 @@ class About extends Component {
       <section id="about">
         <div className="row">
           <div className="three columns">
-            <img
-              className="profile-pic"
-              src={profilepic}
-              alt="Tim Baker Profile Pic"
-            />
+            <Avatar src="../images/profilepic.jpg" size={200} round={20} />
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>

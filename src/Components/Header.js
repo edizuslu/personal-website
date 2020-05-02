@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Avatar from "react-avatar";
 
 class Header extends Component {
   render() {
@@ -54,6 +55,12 @@ class Header extends Component {
 
         <div className="row banner">
           <div className="banner-text">
+            <Avatar
+              src="../images/edizuslu-working.jpeg"
+              size={285}
+              round={true}
+            />
+
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>
               I'm a {city} based <span>{occupation}</span>. {description}.
