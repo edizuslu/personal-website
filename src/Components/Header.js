@@ -55,11 +55,7 @@ class Header extends Component {
 
         <div className="row banner">
           <div className="banner-text">
-            <Avatar
-              src="../images/edizuslu-working.jpeg"
-              size={285}
-              round={true}
-            />
+            <Avatar src="../images/profilepic.jpg" size={200} round={true} />
 
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>

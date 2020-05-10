@@ -19,9 +19,7 @@ class About extends Component {
     return (
       <section id="about">
         <div className="row">
-          <div className="three columns">
-            <Avatar src="../images/profilepic.jpg" size={200} round={20} />
-          </div>
+          <div className="three columns"></div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
 

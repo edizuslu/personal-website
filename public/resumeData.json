@@ -15,7 +15,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/16Bu3M_v-PPMUnluywSmwBPfvgvCI_hyg/view?usp=sharing",
+    "resumedownload": "./images/portfolio/resume.pdf",
     "social": [
       {
         "name": "stackoverflow",
@@ -24,12 +24,12 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/ediz-uslu-93a88312b/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/edizuslu",
         "className": "fa fa-github"
       },
       {
@@ -43,30 +43,39 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "TOBB Economy and Technology University ",
+        "degree": "Bachelor's degree, Computer Engineering, 2.93/4.00",
+        "graduated": "2016 - 2020",
+        "description": ""
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Nesibe Aydın Anatolian High School",
+        "degree": "High School, 86.83/100",
+        "graduated": "2012 - 2015",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "JotForm",
+        "title": "Web Development Intern",
+        "years": "Sep 2019 - Dec 2019",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
+        "icon": "./images/jotform-logo.png"
       },
       {
-        "company": "Super Cool Studio",
+        "company": "ESEN System & Integration",
         "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years": "Jan 2019 - Apr 2019",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
+        "icon": "./images/esen-logo-yesil-acik.png"
+      },
+      {
+        "company": "AYESAS Aviation & Aerospace",
+        "title": "Junior bug fixer",
+        "years": "May 2018 - Aug 2018",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
+        "icon": "./images/ayesas-logo.png"
       }
     ],
     "skills": [
