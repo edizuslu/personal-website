@@ -28,9 +28,15 @@ class About extends Component {
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
                 <p className="address">
-                  <span>{name}</span>
+                <a href="https://edizuslu.herokuapp.com/">Ediz Uslu</a>
                   <br />
-                  <span>{email}</span>
+                  <a href="edizusluu@gmail.com">edizusluu@gmail.com</a>
+                  <br />
+                  <a href="https://www.linkedin.com/in/ediz-uslu-93a88312b/">LinkedIn</a>
+                  <br />
+                  <a href="https://github.com/edizuslu">Github</a>
+                  <br />
+                  <a href="https://www.hackerrank.com/edizusluu?hr_r=1">HackerRank</a>     
                 </p>
               </div>
               <div className="columns download">
