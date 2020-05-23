@@ -105,7 +105,7 @@
       {
         "title": "Senior Project - CarTobbU",
         "category": "Smart car park system for reducing waste of time in car park by recommending parking lots and managingpenalties/complaints in car park of university campus",
-        "image": "seniorprojectdemo.png",
+        "image": "seniorprojectdemo.PNG",
         "url": "https://www.youtube.com/watch?v=AxiHb0U-UWA&feature=youtu.be&t=468"
       },
       {
@@ -117,19 +117,19 @@
       {
         "title": "JotForm Voice",
         "category": "JotForm Voice, a chrome extension which allows to fill forms including different type of form widgets by usingvoice for users with disabilities.",
-        "image": "jotvoice.png",
+        "image": "jotvoice.PNG",
         "url": "https://www.youtube.com/watch?v=lV-T9uKOrCg&feature=youtu.be"
       },
       {
         "title": "Random Submission Generator",
         "category": "Random Submission Generator, a developer tool web app developed for developing and testing processes of mainproduct of JotForm.",
-        "image": "subgenerator.png",
+        "image": "subgenerator.PNG",
         "url": "https://www.youtube.com/watch?v=DAMnlGtL_Tg&feature=youtu.be"
       },
       {
         "title": "Resisipe",
         "category": "Social media platform for recipes, people can share their recipes, like someone’s recipe, set timer to delete recipe, getnotification when your recipe is liked, search by tags",
-        "image": "resisipedemo.png",
+        "image": "resisipedemo.PNG",
         "url": "https://www.youtube.com/watch?v=gQBxgU-t8Uc"
       }
     ]
